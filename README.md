@@ -6,10 +6,6 @@ This is the **frontend application only**. Backend services will be integrated i
 
 ---
 
-## 📸 Preview
-(Add screenshots of your UI here)
-
----
 
 ## 🛠️ Tech Stack
 
